@@ -1,0 +1,18 @@
+Conclusiones:
+
+-La automatización esta creada desde build.gradle
+
+-Las versiones utilizadas de todas las dependencias fueron usadas debido a su estabilidad al momento de crear
+y ejecutar el código de automatización.
+
+-La página de prueba https://www.demoblaze.com/ tiene un mejor funcionamiento con el browser "Microsoft Edge",
+en Chrome tiene muchas inconsistencias al momento de  ir a algún apartado
+
+-La pagina permite realizar la compra de dos productos sin antes iniciar sesión de usuario y por lo general
+debería tener un logeo para poder identificar el usuario que se encuentra comprando.
+
+
+
+
+
+
