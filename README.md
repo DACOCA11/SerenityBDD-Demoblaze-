@@ -1,12 +1,12 @@
 # SerenityBDD-Demoblaze-Automatizando pruebas
 Automatización de la pagina " https://www.demoblaze.com/"
 Autor: David Coronel, Quito-Ecuador
----------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------
 Patron de diseño: Screenplay
 Framework: gherkin, cucumber, Junit, SerenityBDD, selenium
 Framework adicionales: librerias lombok, Faker, SonarLink, cucumber for java
 
----------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------
 1. Prerrequisitos:
 	- Maquina local con el sistema operativo Windows 11
 	- Microsoft Edge (Versión 126.0.2592.87)
@@ -17,11 +17,11 @@ Framework adicionales: librerias lombok, Faker, SonarLink, cucumber for java
 
 Importante: Se utilizo el browser Microsoft Edge debido a la estabilidad que presenta al momento de ejecutar pruebas,
 por lo que la automatización corre en este navegador. Es necesario tenerlo instalado.
----------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------
 2. Ejecución en el archivo
 	-Abrir los archivos de la carpeta "PE2E" dentro del programa Intellij IDEA.
 	-Dirigirse al ícono de Run y correr el test o (Mayús + F10)
----------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------
 
 3. Comandos para ejecución por consola
 -Comando para limpiar el proyecto y luego ejecuta TODOS los escenarios uno por uno
@@ -32,7 +32,7 @@ por lo que la automatización corre en este navegador. Es necesario tenerlo inst
 ./gradlew reports
 -Comando para limpiar la carpeta Target (Reportes)
 ./gradlew clearReports
----------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------
 4.Información adicional
 -Para visualizar el reporte generado en Serenity nos dirigimos después de obtener el resultado del test a
 "Main report" que se muestra en la parte final y se nos genera de la siguiente manera:
@@ -40,5 +40,5 @@ por lo que la automatización corre en este navegador. Es necesario tenerlo inst
 Main report: file:///C:/Users/David/Desktop/nttdata%20ejemplos/Ejemplo2/PE2E/target/site/serenity/index.html
 
 Procedemos a dar click sobre el link generado y podremos visualizar el reporte
-
--El archivo readme.txt y conclusiones txt se encuentran dentro de la carpeta PE2E
+---------------------------------------------------------------------------------------------------------------------
+******-El archivo readme.txt y conclusiones txt se encuentran dentro de la carpeta de archivos************
