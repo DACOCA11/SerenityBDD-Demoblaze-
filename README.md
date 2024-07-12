@@ -41,4 +41,4 @@ Main report: file:///C:/Users/David/Desktop/nttdata%20ejemplos/Ejemplo2/PE2E/tar
 
 Procedemos a dar click sobre el link generado y podremos visualizar el reporte
 
--El archivo readme.txt y conclusiones txt se encuentran dentro de la carpeta PE2E
+									-El archivo readme.txt y conclusiones txt se encuentran dentro de la carpeta PE2E
