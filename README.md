@@ -19,8 +19,8 @@ Importante: Se utilizo el browser Microsoft Edge debido a la estabilidad que pre
 por lo que la automatización corre en este navegador. Es necesario tenerlo instalado.
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 2. Ejecución en el archivo
--Abrir los archivos de la carpeta "PE2E" dentro del programa Intellij IDEA.
--Dirigirse al ícono de Run y correr el test o (Mayús + F10)
+	-Abrir los archivos de la carpeta "PE2E" dentro del programa Intellij IDEA.
+	-Dirigirse al ícono de Run y correr el test o (Mayús + F10)
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 3. Comandos para ejecución por consola
